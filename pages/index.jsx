@@ -20,8 +20,8 @@ const Home = () => {
             exit="hidden"
             className="h1"
           >
-            Transforming Ideas <br /> Into{" "}
-            <span className="text-accent">Digital Reality</span>
+            Hi, I'm <span className="text-accent">Sultan Mawdood</span> <br />
+            Full-Stack Developer
           </motion.h1>
 
           {/* subtitle */}
@@ -32,10 +32,9 @@ const Home = () => {
             exit="hidden"
             className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16"
           >
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptate,
-            exercitationem harum, quia nulla temporibus deleniti libero veniam
-            vero beatae numquam ducimus illum ab similique ipsam tempore fugit
-            quod laudantium debitis.
+            Passionate full-stack developer specializing in building exceptional
+            digital experiences. I create modern, responsive web applications
+            using the latest technologies and best practices.
           </motion.p>
 
           {/* btn */}
